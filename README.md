@@ -41,6 +41,13 @@ Simply download the project and open **animate_Your_Own_Heartbeat.html** in your
 
 ---
 
+## 📸 Vista previa
+
+![Preview](Animate_Your_Own_Heartbeat.png)
+
+---
+
+
 ## 👩‍💻 Author
 
 Developed by **She Codes MX**
