@@ -28,7 +28,7 @@ A fun project where you can customize and animate a beautiful heart directly in 
 ```
 animate-your-own-heart
 │
-├── index.html
+├── animate_Your_Own_Heartbeat.html
 ├── style.css
 ├── script.js
 ```
@@ -37,7 +37,7 @@ animate-your-own-heart
 
 ## ▶️ How to Run
 
-Simply download the project and open **index.html** in your browser.
+Simply download the project and open **animate_Your_Own_Heartbeat.html** in your browser.
 
 ---
 
